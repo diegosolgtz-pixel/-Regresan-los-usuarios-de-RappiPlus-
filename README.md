@@ -43,5 +43,3 @@ Este proyecto evalúa la retención y el comportamiento de los clientes del serv
 * **Optimización de pago:** Revisar el flujo o la pasarela de pagos para identificar fricciones técnicas o errores en la plataforma que reduzcan la tasa de abandono (*drop*).
 * **Control de precios:** Implementar un sistema de control al momento de fijar precios para evitar la comercialización de productos con márgenes negativos.
 
-> *(Aquí puedes insertar imágenes o capturas de tu dashboard de Power BI o gráficos)*
-> `![Dashboard Power BI](link-o-ruta-de-tu-imagen.png)`
